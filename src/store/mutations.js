@@ -1,3 +1,6 @@
+/* modularize by attribute */
+
+/*
 const addOneItem = (state, todoItem) => {
     const obj = {completed: false, item: todoItem};
     localStorage.setItem(todoItem, JSON.stringify(obj));
@@ -19,3 +22,4 @@ const clearAllItems = (state) => {
 }
 
 export { addOneItem, removeOneItem, toggleOneItem, clearAllItems }
+*/
